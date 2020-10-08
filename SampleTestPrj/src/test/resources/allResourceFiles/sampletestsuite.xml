@@ -2,7 +2,7 @@
 <suite name="Suite" parallel="false">
   <test name="Test">
     <classes>
-      <class name="testpackage.SampleClass"/>
+      <class name="testpackage.FirstTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
